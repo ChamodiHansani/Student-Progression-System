@@ -1,0 +1,7 @@
+Progress - 120, 0, 0
+Do not progress - module Retriever - 0, 100, 20
+Do not progress - module Retriever - 20, 80, 20
+Exclude - 0, 0, 120
+Do not progress - module Retriever - 40, 60, 20
+Do not progress - module Retriever - 60, 0, 60
+Do not progress - module Retriever - 40, 40, 40
